@@ -1,0 +1,22 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Test",
+			"url": "https://www.dropbox.com/s/3cujt0ipcr8ka2x/wallpaper1.png?dl=0",
+			"name": "1"
+		},
+		{
+			"author": "test",
+			"url": "https://www.dropbox.com/s/i55qwl7l927p6i4/wallpaper2.png?dl=0",
+			"name": "2"
+		},
+		{
+			"author": "test",
+			"url": "https://www.dropbox.com/s/gsdsauohi15rict/wallpaper3.jpg?dl=0",
+			"name": "3"
+		}
+		
+		 
+	]
+}
