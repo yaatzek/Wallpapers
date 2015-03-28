@@ -3,17 +3,17 @@
 	[ 
 		{
 			"author": "Test",
-			"url": "https://github.com/yaatzek/Wallpapers/blob/master/walls/wallpaper1.png",
+			"url": "https://raw.githubusercontent.com/yaatzek/Wallpapers/master/walls/wallpaper1.png",
 			"name": "1"
 		},
 		{
 			"author": "test",
-			"url": "https://github.com/yaatzek/Wallpapers/blob/master/walls/wallpaper2.png",
+			"url": "https://raw.githubusercontent.com/yaatzek/Wallpapers/master/walls/wallpaper2.png",
 			"name": "2"
 		},
 		{
 			"author": "test",
-			"url": "https://github.com/yaatzek/Wallpapers/blob/master/walls/wallpaper3.jpg",
+			"url": "https://raw.githubusercontent.com/yaatzek/Wallpapers/master/walls/wallpaper3.jpg",
 			"name": "3"
 		}
 		
